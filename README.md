@@ -38,17 +38,21 @@ focus_areas:
   - Backend & API Engineering (FastAPI, SQLite, Python)
 currently_learning: Distributed Systems & Advanced Neural Architectures
 passions: Building real-world AI tools, hackathon engineering, music & books
+
 🔭 Building: End-to-end intelligent systems, vision-based inspection tools, and full-stack API backends.
 
 💡 Core Mindset: Bridging theoretical deep learning models with fast, practical web architectures.
 
 🎯 Goal: Architecting scalable software solutions that solve tangible infrastructure and health challenges.
-Domain,Technologies & Frameworks
-Languages,   
-AI / Machine Learning,   
-Backend & Databases,  
-Frontend & Styling,  
-Tools & Platforms,
+
+🛠️ Tech Stack & Tooling
+Domain
+Languages	                             Technologies & Frameworks
+AI / Machine Learning	
+Backend & Databases	
+Frontend & Styling	
+Tools & Platforms
+
 🧪 Featured Work & Highlights
 ├── 🔍 Road Damage Detection Engine
 │   └── Vision pipeline utilizing custom-trained YOLO object detection & FastAPI
