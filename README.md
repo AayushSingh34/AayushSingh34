@@ -11,14 +11,11 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <a href="https://www.linkedin.com/in/aayush-singh-2a8233334/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:your-as1518388@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://twitter.com/your-twitter-username" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
   </p>
 
@@ -46,12 +43,12 @@ passions: Building real-world AI tools, hackathon engineering, music & books
 🎯 Goal: Architecting scalable software solutions that solve tangible infrastructure and health challenges.
 
 🛠️ Tech Stack & Tooling
-Domain
-Languages	                             Technologies & Frameworks
-AI / Machine Learning	
-Backend & Databases	
-Frontend & Styling	
-Tools & Platforms
+Domain                                      Technologies & Frameworks
+Languages	                                    python      
+AI / Machine Learning	                        YOLO, OpenCv, Pytorch, LLM APIs 
+Backend & Databases	                          FastAPI, SQLlite, Uvicorn / REST Standards
+Frontend & Styling	                          Tailwind CSS, HTML5 & CSS3
+Tools & Platforms                             Git & GitHub, Git & GitHub:, LaTeX
 
 🧪 Featured Work & Highlights
 ├── 🔍 Road Damage Detection Engine
