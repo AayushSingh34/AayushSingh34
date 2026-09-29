@@ -33,7 +33,7 @@ focus_areas:
   - Computer Vision & Object Detection (YOLO, OpenCV)
   - Deep Learning Architectures (CNNs, Transformers, LLMs)
   - Backend & API Engineering (FastAPI, SQLite, Python)
-currently_learning: Distributed Systems & Advanced Neural Architectures
+currently_learning:Advanced Neural Architectures
 passions: Building real-world AI tools, hackathon engineering, music & books
 
 🔭 Building: End-to-end intelligent systems, vision-based inspection tools, and full-stack API backends.
